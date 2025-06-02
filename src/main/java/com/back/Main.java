@@ -15,6 +15,8 @@ public class Main {
 
         String cmd = scanner.nextLine();
 
+        String content = scanner.nextLine();
+
         System.out.println(cmd);
     }
 }
