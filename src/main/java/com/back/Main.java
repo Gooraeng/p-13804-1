@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         lab1();
+        lab2();
     }
 
     private static void lab1() {
@@ -21,5 +22,9 @@ public class Main {
 
         System.out.println("cmd : " + cmd);
         System.out.println("content : " + content);
+    }
+
+    private static void lab2() {
+        System.out.println("안녕하세요.");
     }
 }
